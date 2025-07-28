@@ -6,6 +6,8 @@ import { conn } from "./conn.js";
 import Alunos from "./model/alunos.js";
 import Treinos from "./model/Treinos.js";
 import Execicios from "./model/Exercicios.js";
+import TreinoExercicio from "./model/TreinoExercicio.js";
+
 
 const app = express();
 
